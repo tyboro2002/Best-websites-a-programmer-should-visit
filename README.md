@@ -263,6 +263,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Airborn OS](https://www.airbornos.com) :  Private Google Docs Alternative
 - [Commandlinefu](https://www.commandlinefu.com/commands/browse) : An extensive collection of Shell oneliners that can save your day on many occasions
 - [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible) : A collection of pure bash alternatives to external processes.
+- [die net](https://linux.die.net/) : A search engine for all linux man pages 
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
